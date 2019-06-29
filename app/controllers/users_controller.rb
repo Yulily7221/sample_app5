@@ -11,6 +11,8 @@ end
   def create
     @user = User.new(user_params)
     if @user.save
+      @user = User.find_by(name: user_params[:name])
+      redirect_to user_path(@user)
     else
       render'new'
     end
