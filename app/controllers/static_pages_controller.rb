@@ -1,6 +1,5 @@
 class StaticPagesController < ApplicationController
   def home
-    @user = User.find(1)
   end
 
   def help
@@ -11,5 +10,5 @@ class StaticPagesController < ApplicationController
 
   def contact
   end
-  
+
 end
