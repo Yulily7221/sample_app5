@@ -1,3 +1,4 @@
+this is lesson
 From note PC
 
 # Ruby on Rails チュートリアルのサンプルアプリケーション
