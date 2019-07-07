@@ -1,4 +1,4 @@
-I'm looking forword to see you next month.
+I'm looking forward to see you next month.
 
 2019,7,7
 this is lesson
