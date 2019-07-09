@@ -1,3 +1,4 @@
+for clone to note PC
 this is lesson
 From note PC
 
